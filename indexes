@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Claytons Website</title>
+<meta name="description" content="A layout by Almost Sweet.">
+<link rel="stylesheet" type="text/css" href="styles.css">
+<link href="https://fonts.googleapis.com/css?family=Audiowide" rel="stylesheet"> 
+</head>
+<body>
+<div id="linkboxbox"><div id="linkbox"><center>Links to my accounts</center><br>
+<a href="/" title="what's going on here">My Youtube account</a>
+<br><small>claytons website © 2025</small>
+</div></div>
+
+<div id="box1">
+<div class="post"><h1>about</h1>
+<p>Hello my name is Clayton and this is my website for sharing my game clips and other things.</p>
+<h2>05 feb 2025</h2></div>
+
+<div class="post"><h1>Status</h1>
+<p>Wokring on setup</p>
+<h2>05 feb 2025</h2></div>
+
+<div class="post"><h1>updates</h1>
+<p>Website created!</p>
+<h2>05 feb 2025</h2></div>
+
+</div>
+</body>
+</html>
